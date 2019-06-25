@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="col1" table="x_358127_github1_gittable">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="col3" table="x_358127_github1_gittable">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Col1</column_label>
+        <column_label>Col3</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>col1</element>
+        <element>col3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-25 08:31:43</sys_created_on>
-        <sys_id>e8cb977cdb163300ae79d6aa4896190c</sys_id>
+        <sys_created_on>2019-06-25 10:57:36</sys_created_on>
+        <sys_id>b12ad33cdb163300ae79d6aa4896198e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Col1</sys_name>
+        <sys_name>Col3</sys_name>
         <sys_package display_value="GitHub1" source="x_358127_github1">75983678db923300ae79d6aa489619a9</sys_package>
         <sys_policy/>
         <sys_scope display_value="GitHub1">75983678db923300ae79d6aa489619a9</sys_scope>
-        <sys_update_name>sys_dictionary_x_358127_github1_gittable_col1</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-06-25 11:04:10</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_358127_github1_gittable_col3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 10:57:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
